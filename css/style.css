@@ -1,0 +1,28 @@
+html {
+    background-color: black;
+    color: whitesmoke;
+    padding: 1em;
+    margin: 1em;
+}
+
+nav {
+    display: flex;
+    background-color: black;
+}
+
+nav a {
+    background-color: black;
+    color: whitesmoke;
+    padding: 0.5em;
+    font-family: Calibri;
+    font-size: x-large;
+    transition: background-color 1.0s;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: rgb(255, 234, 0);
+}
+
+
+
